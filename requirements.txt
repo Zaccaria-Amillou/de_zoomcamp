@@ -1,4 +1,0 @@
-argparse
-pandas 
-sqlalchemy
-psycopg2
